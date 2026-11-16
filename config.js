@@ -6,7 +6,7 @@ module.exports = {
 
   // The public URL of this shortener service.
   // Example: https://my-shortener.vercel.app
-  BASE_URL: "https://your-domain.com",
+  BASE_URL: "dreamlinkerin.vercel.app",
 
   PORT: 3000,
 
