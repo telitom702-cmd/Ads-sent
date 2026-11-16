@@ -7,10 +7,10 @@ const config = {
 
   // --- Admin login ---
   ADMIN_USERNAME: process.env.ADMIN_USERNAME || "admin",
-  ADMIN_PASSWORD: process.env.ADMIN_PASSWORD || "",
+  ADMIN_PASSWORD: process.env.ADMIN_PASSWORD || "12345678",
 
   // --- Session secret ---
-  SESSION_SECRET: process.env.SESSION_SECRET || "",
+  SESSION_SECRET: process.env.SESSION_SECRET || "dreamlinkin",
 
   // --- Service ---
   BASE_URL: process.env.BASE_URL || "",   // empty = auto-detect from request
