@@ -13,7 +13,7 @@ const config = {
   SESSION_SECRET: process.env.SESSION_SECRET || "dreamlinkin",
 
   // --- Service ---
-  BASE_URL: process.env.BASE_URL || "",   // empty = auto-detect from request
+  BASE_URL: process.env.BASE_URL || "dreamweburl",   // empty = auto-detect from request
   PORT: Number(process.env.PORT || 3000),
 
   // --- Link settings ---
