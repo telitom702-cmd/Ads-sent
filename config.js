@@ -11,11 +11,11 @@ module.exports = {
   PORT: 3000,
 
   // Admin login for /admin
-  ADMIN_USERNAME: "admin",
-  ADMIN_PASSWORD: "CHANGE_THIS_PASSWORD",
+  ADMIN_USERNAME: "Admin",
+  ADMIN_PASSWORD: "12345678",
 
   // Used to sign admin sessions.
-  SESSION_SECRET: "CHANGE_THIS_TO_A_LONG_RANDOM_SECRET",
+  SESSION_SECRET: "Skomar-Dreamlinker",
 
   // Link settings
   WAIT_SECONDS: 10,
