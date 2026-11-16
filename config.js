@@ -1,7 +1,7 @@
 // Server configuration only.
 // Do NOT put this file in a public GitHub repository.
 module.exports = {
-  MONGODB_URI: "mongodb+srv://USER:PASSWORD@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority",
+  MONGODB_URI: "mongodb+srv://mongodbpy_db_user:pPgtRKyHsm8GvJF2@cluster0.u2ft5ps.mongodb.net/?appName=Cluster0",
   DATABASE_NAME: "shortener",
 
   // The public URL of this shortener service.
